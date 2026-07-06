@@ -2,14 +2,7 @@
 
 ## Use Case
 
-Access to clean water is a fundamental necessity for 600 million Indians
-who face high-to-extreme water stress. The Central Pollution Control Board
-(CPCB) monitors water quality across thousands of wells and sampling
-locations across India, measuring chemical and physical parameters annually.
-
-Manual interpretation of these measurements is slow and inconsistent.
-Machine Learning can help authorities flag unsafe water faster, prioritize
-treatment efforts, and allocate resources more effectively.
+I explored a use case where millions of Indians, facing high-to-extreme water stress, need clean water. An organization monitors water quality across thousands of wells and locations in India, measuring chemical and physical parameters annually. Manual interpretation is slow and inconsistent, so I used machine learning to help authorities flag unsafe water faster, prioritize treatment, and allocate resources effectively.
 
 ## What I Wanted to Achieve
 
