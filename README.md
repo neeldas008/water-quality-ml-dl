@@ -109,7 +109,6 @@ Assignment_Other_ML/
 ├── 00_EDA_and_Preprocessing.ipynb
 ├── 01_Linear_Logistic_Regression.ipynb
 ├── 02_Decision_Tree.ipynb
-├── 03b_Bagging_DecisionTree.ipynb
 ├── 03_Random_Forest.ipynb
 ├── 04_XGBoost.ipynb
 ├── 05_KNN.ipynb
